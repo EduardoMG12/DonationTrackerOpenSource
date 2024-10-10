@@ -1,3 +1,20 @@
+# Projeto DonationTrackerOpenSource
+<!-- <img width="20%"  src="./public/imagesREADME/ifpr.svg"/> -->
+
+Este repositório contém o projeto "DonationTrackerOpenSource", desenvolvido como parte da disciplina de Sistemas de Informações no IFPR Palmas-PR, sob a orientação do professor Tarlis Portela.
+
+<details>
+  <summary style="position:relative;">Como rodar projeto <img width="30" alt="Descrição da imagem" style="position: absolute; top: 50%; left: 153px; transform: translate(-50%, -50%);" src="https://www.svgrepo.com/show/528592/settings.svg"></summary>
+
+
+</details>
+
+<details>
+  <summary style="position:relative;">Sprint: <img width="20" alt="Descrição da imagem" style="position: absolute; top: 50%; left: 205px; transform: translate(-50%, -50%);"  src="https://www.svgrepo.com/show/295412/development-web-development.svg"></summary>
+  </summary>
+
+  
+
 ## Frameworks Recomendados:
 JavaFX: Para criar a interface gráfica de forma moderna e intuitiva.
 JavaFX CSS: Suporte nativo ao CSS, permitindo que você estilize seus componentes de interface gráfica utilizando arquivos *.css
@@ -98,3 +115,20 @@ Duração: 2 dias.
 ### Documentação Completa:
 Descrição: Documente o código e escreva um guia de uso do software.
 Duração: 2 dias.
+
+
+</details>
+
+</details>
+
+### *Professor*
+- **Tarlis Portela:**
+
+### **Prazo**
+
+Prazo para **envio** do e-mail com **link do repositório:** 09/05/2024  (quinta-feira), **até às 17h30**.
+
+Prazo máximo para **envio** do ultimo commit no repositório: Último commit até às 17h30 de 21/05/2024 (terça-feira).
+
+
+
